@@ -1,2 +1,1 @@
-# leetcode
-# leedcode刷题代码
+## leedcode刷题代码
